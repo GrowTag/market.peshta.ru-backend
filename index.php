@@ -271,7 +271,7 @@ $APPLICATION->SetTitle("Пешта");
 		"COUNT_ELEMENTS" => "N",
 		"COUNT_ELEMENTS_FILTER" => "CNT_ACTIVE",
 		"FILTER_NAME" => "sectionsFilter",
-		"IBLOCK_ID" => "34",
+		"IBLOCK_ID" => "38",
 		"IBLOCK_TYPE" => "catalog",
 		"SECTION_CODE" => "",
 		"SECTION_FIELDS" => array(
